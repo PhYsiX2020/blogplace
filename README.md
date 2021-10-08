@@ -5,5 +5,5 @@
 
 
 #### 测试外部链接
-* [作文链接](https://physix2020.github.io/blogplace/)
+* [作文链接](https://zine.la/article/a7245d2c403d481e945a552a5fdab950/)
 
