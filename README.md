@@ -2,6 +2,7 @@
 
 #### 笔记收录
 * [量子测量_0](https://physix2020.github.io/blogplace/pages/量子测量_笔记_禁止.html)
+* [量子场论_0](https://physix2020.github.io/blogplace/files/量子场论_0.pdf)
 
 
 #### 测试外部链接
