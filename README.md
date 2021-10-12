@@ -5,7 +5,7 @@
 * 量子测量
 
   * [量子测量0](https://physix2020.github.io/blogplace/pages/量子测量_笔记_禁止.html)
-  * 
+  * [Quantum Measurement and Metrology](https://physix2020.github.io/blogplace/files/Quantum Measurement and Metrology.pdf)
 
     
 
