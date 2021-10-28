@@ -18,6 +18,10 @@
   * [量子场论4](https://physix2020.github.io/blogplace/files/量子场论4.pdf)
 
 
+  * 量子信息
+  * [量子信息0](https://physix2020.github.io/blogplace/files/quantum.pdf)
+
+
 #### 测试外部链接
 
 * [作文链接](https://zine.la/article/a7245d2c403d481e945a552a5fdab950/)
