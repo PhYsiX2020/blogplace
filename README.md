@@ -24,7 +24,15 @@
   * [量子信息0](https://physix2020.github.io/blogplace/files/quantum.pdf)
   * 
   
+
+* 超导电路
+  * [Transmission line coupled Resonator](https://physix2020.github.io/blogplace/files/Derivation_of_TL_coupled_Resonator.pdf)
+  * 
   
+* Other notes
+  * [Story_of_2021-11](https://physix2020.github.io/blogplace/files/Story_of_2021-11.pdf)
+  * 
+
 
 #### 测试外部链接
 
