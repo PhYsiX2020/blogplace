@@ -28,6 +28,11 @@
 * 超导电路
   * [Transmission line coupled Resonator](https://physix2020.github.io/blogplace/files/Derivation_of_TL_coupled_Resonator.pdf)
   * 
+
+
+* Journal Club
+  * [Coupling a single electron on superfluid helium to a superconducting resonator](https://physix2020.github.io/blogplace/files/Coupling_a_single_electron_on_superfluid_helium_to_a_superconducting_resonator.pdf)
+  *  
   
 * Other notes
   * [Story_of_2021-11](https://physix2020.github.io/blogplace/files/Story_of_2021-11.pdf)
