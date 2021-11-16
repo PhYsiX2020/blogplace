@@ -32,6 +32,7 @@
 
 * Journal Club
   * [Coupling a single electron on superfluid helium to a superconducting resonator](https://physix2020.github.io/blogplace/files/Coupling_a_single_electron_on_superfluid_helium_to_a_superconducting_resonator.pdf)
+  * [Coupling a single electron on superfluid helium to a superconducting resonator](https://physix2020.github.io/blogplace/files/Coupling_a_single_electron_on_superfluid_helium_to_a_superconducting_resonator.pdf)
   * [Kilohertz electron paramagnetic resonance spectroscopy of single nitrogen centers at zero magnetic field](https://physix2020.github.io/blogplace/files/Kilohertz_electron_paramagnetic_resonance_spectroscopy_of_single_nitrogen_centers_at_zero_magnetic_field.pdf)
   * 
   * 
