@@ -38,7 +38,7 @@
   * 
   
 * Other notes
-  * [Story_of_2021-11](https://physix2020.github.io/blogplace/files/Story_of_2021-11.pdf)
+  * [2021-11-18](https://physix2020.github.io/blogplace/files/2021-11-18.pdf)
   * 
 
 
