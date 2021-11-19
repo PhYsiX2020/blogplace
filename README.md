@@ -44,7 +44,7 @@
 
 #### 测试外部链接
 
-* [毕业论文:微波阻抗显微镜的搭建及改进](https://physix2020.github.io/blogplace/files/微波阻抗显微镜的搭建及改进.pdf)
+* [毕业论文](https://physix2020.github.io/blogplace/files/微波阻抗显微镜的搭建及改进.pdf)
 * [2021作文](https://zine.la/article/6a5a764fed0944329d7b978af78b1349/)
 * [2020作文](https://zine.la/article/a7245d2c403d481e945a552a5fdab950/)
 * [2018作文](https://zine.la/article/ba6b9c0d046e46bebd750409bf81674e/)
