@@ -33,12 +33,13 @@
 * Journal Club
   * [A coherent spin–photon interface in silicon](https://physix2020.github.io/blogplace/files/A_coherent_spin–photon_interface_in_silicon.pdf)
   * [Coupling a single electron on superfluid helium to a superconducting resonator](https://physix2020.github.io/blogplace/files/Coupling_a_single_electron_on_superfluid_helium_to_a_superconducting_resonator.pdf)
-  * [Kilohertz electron paramagnetic resonance spectroscopy of single nitrogen centers at zero magnetic field](https://physix2020.github.io/blogplace/files/Kilohertz_electron_paramagnetic_resonance_spectroscopy_of_single_nitrogen_centers_at_zero_magnetic_field.pdf)
+  * [Kilohertz EPR spectroscopy of single nitrogen centers at zero magnetic field](https://physix2020.github.io/blogplace/files/Kilohertz_electron_paramagnetic_resonance_spectroscopy_of_single_nitrogen_centers_at_zero_magnetic_field.pdf)
+  * [NMR sensing](https://physix2020.github.io/blogplace/files/NMR_sensing.pdf)
   * 
   * 
 
 
-* E Books
+* 电子书
   * [爱因斯坦文集 第一卷](https://physix2020.github.io/blogplace/files/爱因斯坦文集第一卷.pdf)
   * [爱因斯坦文集 第二卷](https://physix2020.github.io/blogplace/files/爱因斯坦文集第二卷.pdf)
   * [爱因斯坦文集 第三卷](https://physix2020.github.io/blogplace/files/爱因斯坦文集第三卷.pdf)
