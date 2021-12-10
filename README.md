@@ -9,12 +9,13 @@
   * 
   
 
-
 * 量子场论
-  * [量子场论0](https://physix2020.github.io/blogplace/files/量子场论.pdf)
+  * [量子场论](https://physix2020.github.io/blogplace/files/量子场论.pdf)
   * 
   
-
+* 量子工程
+  * [Quantum_Engineering](https://physix2020.github.io/blogplace/files/Quantum_Engineering.pdf)
+  * 
 
 * 量子信息
   * [量子信息0](https://physix2020.github.io/blogplace/files/quantum.pdf)
