@@ -11,11 +11,7 @@
 
 
 * 量子场论
-  * [量子场论0](https://physix2020.github.io/blogplace/files/量子场论0.pdf)
-  * [量子场论1](https://physix2020.github.io/blogplace/files/量子场论1.pdf)
-  * [量子场论2](https://physix2020.github.io/blogplace/files/量子场论2.pdf)
-  * [量子场论3](https://physix2020.github.io/blogplace/files/量子场论3.pdf)
-  * [量子场论4](https://physix2020.github.io/blogplace/files/量子场论4.pdf)
+  * [量子场论0](https://physix2020.github.io/blogplace/files/量子场论.pdf)
   * 
   
 
