@@ -46,6 +46,7 @@
   
 * Other notes
   * [2021-11-18](https://physix2020.github.io/blogplace/files/2021-11-18.pdf)
+  * [Pulsed EPR](https://physix2020.github.io/blogplace/files/pulse_EPR.pdf)
   * 
 
 
@@ -56,7 +57,7 @@
 * [2020作文](https://zine.la/article/a7245d2c403d481e945a552a5fdab950/)
 * [2018作文](https://zine.la/article/ba6b9c0d046e46bebd750409bf81674e/)
 * [2016作文](https://zine.la/article/91f0e5c701684bfdbaf11b473cb1605a/)
-* [文件链接](https://physix2020.github.io/blogplace/files/pulse_EPR.pdf)
 * [图片链接](https://physix2020.github.io/blogplace/images/1838341248.jpg)
+* [希腊神话整理]
 
 希望以后可以做出照片的gallery。
