@@ -54,7 +54,7 @@
 
 
 #### 测试外部链接
-* [毕业论文](https://physix2020.github.io/blogplace/files/微波阻抗显微镜的搭建及改进.pdf)
+* [物理学中未解决的问题清单](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics)
 * 
 * [毕业论文](https://physix2020.github.io/blogplace/files/微波阻抗显微镜的搭建及改进.pdf)
 * [2021作文](https://zine.la/article/6a5a764fed0944329d7b978af78b1349/)
