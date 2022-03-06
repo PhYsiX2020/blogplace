@@ -42,7 +42,7 @@
   * [爱因斯坦文集 第二卷](https://physix2020.github.io/blogplace/files/爱因斯坦文集第二卷.pdf)
   * [爱因斯坦文集 第三卷](https://physix2020.github.io/blogplace/files/爱因斯坦文集第三卷.pdf)
   * [量子力学与路径积分](https://physix2020.github.io/blogplace/files/量子力学与路径积分.pdf)
-  * 
+  * [量子计算与量子信息原理](https://physix2020.github.io/blogplace/files/量子计算与量子信息原理.pdf)
 
 
   
