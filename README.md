@@ -3,6 +3,7 @@
 #### 笔记收录
 * Research update
   * [proposal](https://physix2020.github.io/blogplace/pages/proposal.docx)
+  * 
 
 
 * 量子测量
