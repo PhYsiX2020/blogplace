@@ -2,7 +2,7 @@
 
 #### 笔记收录
 * Research update
-  * [proposal](https://physix2020.github.io/blogplace/pages/proposal.docx)
+  * [proposal](https://physix2020.github.io/blogplace/files/proposal.docx)
   * 
 
 
