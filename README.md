@@ -52,6 +52,8 @@
   * [2021-11-18](https://physix2020.github.io/blogplace/files/2021-11-18.pdf)
   * [Pulsed EPR](https://physix2020.github.io/blogplace/files/pulse_EPR.pdf)
   * [2021-12](https://physix2020.github.io/blogplace/pages/2021-12.html)
+  * [Note of Repeaters](https://physix2020.github.io/blogplace/files/Note of Repeaters.pdf)
+  * 
 
 
 #### 测试外部链接
