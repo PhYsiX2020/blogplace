@@ -3,9 +3,7 @@
 #### 笔记收录
 * Research update
   * [proposal](https://physix2020.github.io/blogplace/files/proposal.docx)
-  * [Note of REI list](https://physix2020.github.io/blogplace/files/Note_of_REI_list.docx)
-  * [Asking myself Questions](https://physix2020.github.io/blogplace/files/Asking_myself_Questions.docx)
-  * [Information Collection of Er in Si](https://physix2020.github.io/blogplace/files/Information_Collection_of_Er_in_Si.docx)
+  * [For Proposal](https://physix2020.github.io/blogplace/files/For_Proposal.docx)
   * 
 
 
