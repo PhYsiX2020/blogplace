@@ -3,7 +3,7 @@
 #### 笔记收录
 * Research update
   * [proposal](https://physix2020.github.io/blogplace/files/proposal.docx)
-  * [For Proposal](https://physix2020.github.io/blogplace/files/For_Proposal.docx)
+  * [Literature review of Er in Si](https://physix2020.github.io/blogplace/files/Literature_review_of_Er_in_Si.docx)
   * 
 
 
