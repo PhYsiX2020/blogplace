@@ -1,6 +1,12 @@
 ## Welcome to PhYsiX Space
 
 #### 笔记收录
+* Introduction to Cosmology
+  * [Cosmology_Weinberg](https://physix2020.github.io/blogplace/files/Steven_Weinberg_Cosmology.pdf)
+  * Lecture notes
+
+
+
 * Research update
   * [proposal](https://physix2020.github.io/blogplace/files/proposal.docx)
   * [Literature review of Er in Si](https://physix2020.github.io/blogplace/files/Literature_review_of_Er_in_Si.docx)
