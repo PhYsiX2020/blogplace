@@ -7,16 +7,10 @@
 
 
 
-* Research update
-  * [proposal](https://physix2020.github.io/blogplace/files/proposal.docx)
-  * [Literature review of Er in Si](https://physix2020.github.io/blogplace/files/Literature_review_of_Er_in_Si.docx)
-  * 
-
-
-
 * 量子测量
 
   * [量子测量0](https://physix2020.github.io/blogplace/pages/量子测量_笔记_禁止.html)
+  * [量子测量分类](https://physix2020.github.io/blogplace/pages/量子信息物理原理.html)
   * [Quantum Measurement and Metrology](https://physix2020.github.io/blogplace/files/Quantum_Measurement_and_Metrology.pdf)
   * Problems and Solution Attempts
   * 
