@@ -45,6 +45,7 @@
 
 * 电子书
   * [QED_光和物质的奇妙理论](https://physix2020.github.io/blogplace/files/QED_光和物质的奇妙理论.pdf)
+  * [量子菜根谭](https://physix2020.github.io/blogplace/files/量子菜根谭_量子理论专题分析.pdf)
   * [量子力学与路径积分](https://physix2020.github.io/blogplace/files/量子力学与路径积分.pdf)
   * [量子计算与量子信息原理](https://physix2020.github.io/blogplace/files/量子计算与量子信息原理.pdf)
 
@@ -53,7 +54,7 @@
 * Other notes
   * [2021-11-18](https://physix2020.github.io/blogplace/files/2021-11-18.pdf)
   * [Pulsed EPR](https://physix2020.github.io/blogplace/files/pulse_EPR.pdf)
-  * [2021-12](https://physix2020.github.io/blogplace/pages/2021-12.html)
+  * [Note of Einstein](https://physix2020.github.io/blogplace/files/Note_of_A.EINSTEIN.pdf)
   * [Note of Repeaters](https://physix2020.github.io/blogplace/files/Note_of_Repeaters.pdf)
   * 
 
