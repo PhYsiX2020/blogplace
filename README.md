@@ -48,6 +48,7 @@
   * [量子菜根谭](https://physix2020.github.io/blogplace/files/量子菜根谭_量子理论专题分析.pdf)
   * [量子力学与路径积分](https://physix2020.github.io/blogplace/files/量子力学与路径积分.pdf)
   * [量子计算与量子信息原理](https://physix2020.github.io/blogplace/files/量子计算与量子信息原理.pdf)
+  * 
 
 
   
