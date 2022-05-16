@@ -34,8 +34,8 @@
   * 
 
 * Quantum Optics
- * []
- * 
+  * []
+  * 
 
 * Journal Club
   * [A coherent spin–photon interface in silicon](https://physix2020.github.io/blogplace/files/A_coherent_spin–photon_interface_in_silicon.pdf)
@@ -54,8 +54,8 @@
   * 
 
 * Theory Practice
- * []
- * 
+  * []
+  * 
   
 * Other notes
   * [2021-11-18](https://physix2020.github.io/blogplace/files/2021-11-18.pdf)
