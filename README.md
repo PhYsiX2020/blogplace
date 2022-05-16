@@ -51,9 +51,8 @@
   * 
 
 * Theory Practice
-* []
-*
-
+ * []
+ * 
   
 * Other notes
   * [2021-11-18](https://physix2020.github.io/blogplace/files/2021-11-18.pdf)
