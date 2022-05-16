@@ -74,6 +74,6 @@
 * [2018作文](https://zine.la/article/ba6b9c0d046e46bebd750409bf81674e/)
 * [2016作文](https://zine.la/article/91f0e5c701684bfdbaf11b473cb1605a/)
 * [临摹](https://physix2020.github.io/blogplace/images/1838341248.jpg)
-* [希腊神话整理]
+* [整理]
 
 希望以后可以做出照片的gallery。
