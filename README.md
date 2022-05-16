@@ -50,6 +50,9 @@
   * [量子计算与量子信息原理](https://physix2020.github.io/blogplace/files/量子计算与量子信息原理.pdf)
   * 
 
+* Theory Practice
+* []
+*
 
   
 * Other notes
