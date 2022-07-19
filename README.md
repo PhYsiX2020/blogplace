@@ -16,6 +16,11 @@
   * 
   
 
+* Quantum Mechanics
+  * Problems and Solution Attempts
+   * [QM_m](https://physix2020.github.io/blogplace/files/QM_m.pdf)
+  * 
+
 * 量子场论
   * [量子场论](https://physix2020.github.io/blogplace/files/量子场论.pdf)
   * 
@@ -32,6 +37,7 @@
 * 超导电路
   * [Transmission line coupled Resonator](https://physix2020.github.io/blogplace/files/Derivation_of_TL_coupled_Resonator.pdf)
   * 
+
 
 * Quantum Optics
   * []
