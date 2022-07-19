@@ -18,7 +18,7 @@
 
 * Quantum Mechanics
   * Problems and Solution Attempts
-    * [QM_m](https://physix2020.github.io/blogplace/files/QM_m.pdf)
+    * [QM2_m](https://physix2020.github.io/blogplace/files/QM2_m.pdf)
   * 
 
 * 量子场论
