@@ -56,7 +56,7 @@
 * 电子书
   * [QED_光和物质的奇妙理论](https://physix2020.github.io/blogplace/files/QED_光和物质的奇妙理论.pdf)
   * [量子菜根谭](https://physix2020.github.io/blogplace/files/量子菜根谭_量子理论专题分析.pdf)
-  * [量子力学与路径积分](https://physix2020.github.io/blogplace/files/量子力学与路径积分.pdf)
+  * [朗道统计物理学I](https://physix2020.github.io/blogplace/files/朗道统计物理学I.pdf)
   * [量子计算与量子信息原理](https://physix2020.github.io/blogplace/files/量子计算与量子信息原理.pdf)
   * 
 
