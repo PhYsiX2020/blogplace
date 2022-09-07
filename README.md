@@ -77,7 +77,7 @@
 * [2021作文](https://zine.la/article/6a5a764fed0944329d7b978af78b1349/)
 * [2020作文](https://zine.la/article/a7245d2c403d481e945a552a5fdab950/)
 * [2018作文](https://zine.la/article/ba6b9c0d046e46bebd750409bf81674e/)
-* [2016作文](https://zine.la/article/91f0e5c701684bfdbaf11b473cb1605a/)
+* [2016作文](https://zine.la/article/89db9179d6e24c7f8ad5898551d6f941/)
 * [临摹](https://sites.google.com/view/physix2019/collections?authuser=0)
 * [童话](https://physix2020.github.io/archives/)
 * [神话整理]
