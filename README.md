@@ -76,7 +76,6 @@
 * [毕业论文](https://physix2020.github.io/blogplace/files/微波阻抗显微镜的搭建及改进.pdf)
 * [生日作文](https://zine.la/@%E8%8B%B9%E6%9E%9C%E6%A0%91%E4%B8%8A%E7%9A%84%E7%81%AF/articles/)
 * [b站](https://space.bilibili.com/22728820/)
-* [p站](https://www.pixiv.net/users/82124170/artworks)
 * [童话](https://physix2020.github.io/archives/)
 * [神话整理]
 
