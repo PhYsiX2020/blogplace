@@ -74,11 +74,9 @@
 
 #### 测试外部链接
 * [毕业论文](https://physix2020.github.io/blogplace/files/微波阻抗显微镜的搭建及改进.pdf)
-* [2021作文](https://zine.la/article/6a5a764fed0944329d7b978af78b1349/)
-* [2020作文](https://zine.la/article/a7245d2c403d481e945a552a5fdab950/)
-* [2018作文](https://zine.la/article/ba6b9c0d046e46bebd750409bf81674e/)
-* [2016作文](https://zine.la/article/89db9179d6e24c7f8ad5898551d6f941/)
-* [临摹](https://sites.google.com/view/physix2019/collections?authuser=0)
+* [生日作文](https://zine.la/@%E8%8B%B9%E6%9E%9C%E6%A0%91%E4%B8%8A%E7%9A%84%E7%81%AF/articles/)
+* [b站](https://space.bilibili.com/22728820/)
+* [p站](https://www.pixiv.net/users/82124170/artworks)
 * [童话](https://physix2020.github.io/archives/)
 * [神话整理]
 
