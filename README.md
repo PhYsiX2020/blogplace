@@ -23,7 +23,7 @@
   * 
 
 * 量子场论
-  * [量子场论](https://physix2020.github.io/blogplace/files/量子场论.pdf)
+  * [量子场论...](https://physix2020.github.io/blogplace/files/量子场论.pdf)
   * 
   
 * 量子工程
