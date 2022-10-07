@@ -1,6 +1,14 @@
 ## Welcome to PhYsiX Space
 
 #### 笔记收录
+
+* 固体物理
+  * [固体物理重学1...](https://physix2020.github.io/blogplace/files/固体物理重学1.pdf)
+  * Problems and Solution Attempts
+  * 
+
+
+
 * Introduction to Cosmology
   * [Cosmology_Weinberg](https://physix2020.github.io/blogplace/files/Steven_Weinberg_Cosmology.pdf)
   * Lecture notes
@@ -17,6 +25,7 @@
   
 
 * Quantum Mechanics
+  * 量子物理重学1...
   * Problems and Solution Attempts
     * [QM1-1](https://physix2020.github.io/blogplace/files/QM1-1.pdf)
     * [QM1-2](https://physix2020.github.io/blogplace/files/QM1-2.pdf)
