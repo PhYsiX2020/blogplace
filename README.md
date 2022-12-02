@@ -68,7 +68,8 @@
   * 
   
 * Other notes
-  * [Summer Research](https://physix2020.github.io/blogplace/files/Summer_Research_Summary.pdf) 
+  * [Summer Research](https://physix2020.github.io/blogplace/files/Summer_Research_Summary.pdf)
+  * [Summer Research Notes](https://physix2020.github.io/blogplace/files/Summer_Research_Notes.pdf) 
   * [Note of Einstein](https://physix2020.github.io/blogplace/files/Note_of_A.EINSTEIN.pdf)
   * [Note of Repeaters](https://physix2020.github.io/blogplace/files/Note_of_Repeaters.pdf)
   * [APS March Meeting 2022](https://physix2020.github.io/blogplace/pages/APS_March_Meeting_2022.html)
