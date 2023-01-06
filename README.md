@@ -24,7 +24,7 @@
   
 
 * Quantum Mechanics
-  * [量子力学重学1](https://physix2020.github.io/blogplace/files/量子力学重学1.pdf)
+  * [量子力学重学1](https://physix2020.github.io/blogplace/files/量子力学重学1.pdf),[2](https://physix2020.github.io/blogplace/files/量子力学重学2.pdf)
   * Problems and Solution Attempts
     * [QM1-1](https://physix2020.github.io/blogplace/files/QM1-1.pdf)
     * [QM1-2](https://physix2020.github.io/blogplace/files/QM1-2.pdf)
