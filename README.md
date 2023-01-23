@@ -29,6 +29,7 @@
     * [QM1-1](https://physix2020.github.io/blogplace/files/QM1-1.pdf)
     * [QM1-2](https://physix2020.github.io/blogplace/files/QM1-2.pdf)
     * [QM2-1](https://physix2020.github.io/blogplace/files/QM2-1.pdf)
+    * [QM2-2](https://physix2020.github.io/blogplace/files/QM2-2.pdf)
   * [Quantum_Engineering](https://physix2020.github.io/blogplace/files/Quantum_Engineering.pdf)
   * 
 
