@@ -28,6 +28,7 @@
   * Problems and Solution Attempts
     * [QM1-1](https://physix2020.github.io/blogplace/files/QM1-1.pdf)
     * [QM1-2](https://physix2020.github.io/blogplace/files/QM1-2.pdf)
+    * [QM2-1](https://physix2020.github.io/blogplace/files/QM2-1.pdf)
   * [Quantum_Engineering](https://physix2020.github.io/blogplace/files/Quantum_Engineering.pdf)
   * 
 
