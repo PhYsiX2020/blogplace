@@ -49,12 +49,13 @@
   * [Note1](https://physix2020.github.io/blogplace/files/Quantum_Optics.pdf)
   * 
 
-* Journal Club
+* Journal Club/Presentations
   * [A coherent spin–photon interface in silicon](https://physix2020.github.io/blogplace/files/A_coherent_spin–photon_interface_in_silicon.pdf)
   * [Coupling a single electron on superfluid helium to a superconducting resonator](https://physix2020.github.io/blogplace/files/Coupling_a_single_electron_on_superfluid_helium_to_a_superconducting_resonator.pdf)
   * [Kilohertz EPR spectroscopy of single nitrogen centers at zero magnetic field](https://physix2020.github.io/blogplace/files/Kilohertz_electron_paramagnetic_resonance_spectroscopy_of_single_nitrogen_centers_at_zero_magnetic_field.pdf)
   * [NMR sensing](https://physix2020.github.io/blogplace/files/NMR_sensing.pdf)
   * [Electrically driven optical interferometry with spins in SiC](https://physix2020.github.io/blogplace/files/Electrically_driven_optical_interferometry_with_spins_in_silicon_carbide.pdf)
+  * [QST](https://physix2020.github.io/blogplace/files/QST.pdf)
   * 
 
 
