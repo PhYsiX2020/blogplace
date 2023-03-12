@@ -39,7 +39,7 @@
   * [量子信息0](https://physix2020.github.io/blogplace/files/quantum.pdf)
   * [Advanced Quantum Information and Computation](https://physix2020.github.io/blogplace/files/Advanced_Quantum_Information_and_Computation.pdf) 
   * [Problems and Solution Attempts](https://physix2020.github.io/blogplace/files/QI_solution.pdf)
-  *
+  * 
   
 
 * 超导电路
