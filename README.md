@@ -75,7 +75,10 @@
 
 * 其他
   * [旋转的线](https://physix2020.github.io/blogplace/pages/旋转的线.html)
+  * [磁性杂质](https://physix2020.github.io/blogplace/pages/磁性杂质.html)
   * 
+  * 
+
   
 * Other notes
   * [Summer Research](https://physix2020.github.io/blogplace/files/Summer_Research_Summary.pdf)
