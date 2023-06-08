@@ -48,7 +48,7 @@
 
 
 * Quantum Optics
-  * [Note1](https://physix2020.github.io/blogplace/files/Quantum_Optics.pdf)
+  * [Note1](https://physix2020.github.io/blogplace/files/Quantum_Optics.pdf)[,2](https://physix2020.github.io/blogplace/files/QO基础巩固1.pdf)
   * 
 
 * Journal Club/Presentations
