@@ -70,14 +70,13 @@
   * [量子计算与量子信息原理](https://physix2020.github.io/blogplace/files/量子计算与量子信息原理.pdf)
   * 
 
-* 
-  * 
 
 * 其他
   * [旋转的线](https://physix2020.github.io/blogplace/pages/旋转的线.html)
   * [磁性杂质](https://physix2020.github.io/blogplace/pages/磁性杂质.html)
   * [2024.12.11](https://physix2020.github.io/blogplace/files/2024.12.11.pdf)
   * [2024.12.12](https://physix2020.github.io/blogplace/files/2024.12.12.pdf)
+  * [2025.1.27](https://physix2020.github.io/blogplace/files/2025.1.27.pdf)
   * 
 
   
