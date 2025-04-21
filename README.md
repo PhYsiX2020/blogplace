@@ -8,7 +8,7 @@
 
 * Attachments
   * [Language as Authority.pdf](https://physix2020.github.io/blogplace/files/Attachment1_Language_as_Authority_Chair.pdf)
-  * [(Updated)Interactions with the Department Chair.pdf](https://physix2020.github.io/blogplace/files/Attachment2_Interactions_with_the_Department_Chair.pdf)
+  * [(Updated) Interactions with the Department Chair.pdf](https://physix2020.github.io/blogplace/files/Attachment2_Interactions_with_the_Department_Chair.pdf)
   * [(Updated) Communication Timeline.pdf](https://physix2020.github.io/blogplace/files/Attachment3_Communication_Timeline.pdf)
   * 
 
