@@ -1,8 +1,7 @@
 ## Public Archive 2025
 
-#### Open letter
+#### [open letter 2025.4.22](https://physix2020.github.io/blogplace/files/openletter2025.4.22.pdf)
   * [open letter 2025.4.22](https://physix2020.github.io/blogplace/files/openletter2025.4.22.pdf)
-  * 
 
 
 
@@ -10,7 +9,6 @@
   * [Language as Authority.pdf](https://physix2020.github.io/blogplace/files/Attachment1_Language_as_Authority_Chair.pdf)
   * [(Updated) Interactions with the Department Chair.pdf](https://physix2020.github.io/blogplace/files/Attachment2_Interactions_with_the_Department_Chair.pdf)
   * [(Updated) Communication Timeline.pdf](https://physix2020.github.io/blogplace/files/Attachment3_Communication_Timeline.pdf)
-  * 
 
 
 * Available Upon Request
