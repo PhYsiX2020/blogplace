@@ -10,7 +10,7 @@
     * Academic CV Yuxiang Pei
     * Letter to Dean of Students
     * Systemic Misconduct (DGS)
-  * Research with Ivar (Available Upon Request)
+  * Research with Ivar
     * Project 1
     * Project 2
     * Project 3
