@@ -9,8 +9,7 @@
     * [(Updated) Communication Timeline.pdf](https://physix2020.github.io/blogplace/files/Attachment3_Communication_Timeline.pdf)
   * Available Upon Request
     * Practical Advice from the Erased
-    * Academic CV Yuxiang Pei
-    * Letter to Dean of Students
+    * Academic CV Yuxiang Pei, Letter to Dean of Students
     * Systemic Misconduct (DGS)
   * Research with Ivar
     * Project 1
