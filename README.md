@@ -11,7 +11,11 @@
     * Practical Advice from the Erased
     * Academic CV Yuxiang Pei, Letter to Dean of Students
     * Systemic Misconduct (DGS)
-  * Research with Ivar
-    * Project 1
-    * Project 2
-    * Project 3
+     
+  * Full internal report to the Chair (March 13)
+    * [Misbehavior (general)](https://physix2020.github.io/blogplace/files/Misbehavior(general).pdf)
+    * [Misbehavior (personal)](https://physix2020.github.io/blogplace/files/Misbehavior(personal).pdf)
+    * [Additional](https://physix2020.github.io/blogplace/files/Additional.pdf)
+    * [Timeline](https://physix2020.github.io/blogplace/files/Timeline.pdf)
+    * [Time estimation (updated)](https://physix2020.github.io/blogplace/files/Time estimation (updated).pdf)
+    * [Request](https://physix2020.github.io/blogplace/files/Request.pdf)
