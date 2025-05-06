@@ -17,5 +17,5 @@
     * [Misbehavior (personal)](https://physix2020.github.io/blogplace/files/Misbehavior(personal).pdf)
     * [Additional](https://physix2020.github.io/blogplace/files/Additional.pdf)
     * [Timeline](https://physix2020.github.io/blogplace/files/Timeline.pdf)
-    * [Time estimation (updated)](https://physix2020.github.io/blogplace/files/Time estimation (updated).pdf)
+    * [Time estimation (updated)](https://physix2020.github.io/blogplace/files/Time_estimation(updated).pdf)
     * [Request](https://physix2020.github.io/blogplace/files/Request.pdf)
