@@ -23,5 +23,7 @@
   * University Formal Grievance Form (May 6)
     * [University Formal Grievance Form](https://physix2020.github.io/blogplace/files/University_Formal_Grievance_Form.pdf) 
 
-  * Timeline of events
+  * Exhibits
+    * [Informal Authority Map](https://physix2020.github.io/blogplace/files/ExhibitA_Informal_Authority_Map.pdf) 
+    * [Five Years of Institutional Gaslighting](https://physix2020.github.io/blogplace/files/ExhibitB_Five_Years_of_Institutional_Gaslighting.pdf) 
     * [Timeline of events](https://physix2020.github.io/blogplace/files/ExhibitC_Timeline_of_events.pdf) 
