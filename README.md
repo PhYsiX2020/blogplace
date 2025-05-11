@@ -19,3 +19,9 @@
     * [Timeline](https://physix2020.github.io/blogplace/files/Timeline.pdf)
     * [Time estimation (updated)](https://physix2020.github.io/blogplace/files/Time_estimation(updated).pdf)
     * [Request](https://physix2020.github.io/blogplace/files/Request.pdf)
+
+  * University Formal Grievance Form (May 6)
+    * [University Formal Grievance Form](https://physix2020.github.io/blogplace/files/University_Formal_Grievance_Form.pdf) 
+
+  * Timeline of events
+    * [Timeline of events](https://physix2020.github.io/blogplace/files/ExhibitC_Timeline_of_events.pdf) 
