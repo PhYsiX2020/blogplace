@@ -30,3 +30,12 @@
     * [Timeline of events](https://physix2020.github.io/blogplace/files/ExhibitC_Timeline_of_events.pdf) 
 
 [Institutional Responses Summary](https://physix2020.github.io/blogplace/files/Institutional_Responses_Since_April_2_2025.pdf) 
+
+[Final Record 2025.5.22](https://physix2020.github.io/blogplace/files/Final_record.pdf)  
+  * Key Documents
+    * [University Formal Grievance Form(redacted)](https://physix2020.github.io/blogplace/files/University_Formal_Grievance_Form(redacted).pdf) 
+    * [Whistleblower Letter](https://physix2020.github.io/blogplace/files/Whistleblower_Letter.pdf) 
+      * [Informal Authority Map](https://physix2020.github.io/blogplace/files/ExhibitA_Informal_Authority_Map.pdf) 
+      * [Five Years of Institutional Gaslighting](https://physix2020.github.io/blogplace/files/ExhibitB_Five_Years_of_Institutional_Gaslighting.pdf)
+      * [Timeline of events](https://physix2020.github.io/blogplace/files/ExhibitC_Timeline_of_events.pdf) 
+    * [FAQ](https://physix2020.github.io/blogplace/files/FAQ.pdf) 
