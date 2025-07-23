@@ -16,11 +16,6 @@
   * [Advanced Quantum Information and Computation](https://physix2020.github.io/blogplace/files/Advanced_Quantum_Information_and_Computation.pdf) 
   * [Problems and Solution Attempts](https://physix2020.github.io/blogplace/files/QI_solution.pdf)
   * 
-  
-* 超导电路
-  * [Transmission line coupled Resonator](https://physix2020.github.io/blogplace/files/Derivation_of_TL_coupled_Resonator.pdf)
-  * 
-
 
 * Quantum Optics
   * [Note1](https://physix2020.github.io/blogplace/files/Quantum_Optics.pdf)
@@ -34,13 +29,15 @@
   * [Kilohertz EPR spectroscopy of single nitrogen centers at zero magnetic field](https://physix2020.github.io/blogplace/files/Kilohertz_electron_paramagnetic_resonance_spectroscopy_of_single_nitrogen_centers_at_zero_magnetic_field.pdf)
   * [NMR sensing](https://physix2020.github.io/blogplace/files/NMR_sensing.pdf)
   * [Electrically driven optical interferometry with spins in SiC](https://physix2020.github.io/blogplace/files/Electrically_driven_optical_interferometry_with_spins_in_silicon_carbide.pdf)
-  * [QST](https://physix2020.github.io/blogplace/files/QST.pdf)
+  * [Quantum State Transfer](https://physix2020.github.io/blogplace/files/QST.pdf)
   * 
 
 #### Research Notes
 
 #### Drafts
-
+  * [Transmission line coupled Resonator](https://physix2020.github.io/blogplace/files/Derivation_of_TL_coupled_Resonator.pdf)
+  * [旋转的线](https://physix2020.github.io/blogplace/pages/旋转的线.html)
+  * [磁性杂质](https://physix2020.github.io/blogplace/pages/磁性杂质.html)
 
 * 电子书
   * [QED_光和物质的奇妙理论](https://physix2020.github.io/blogplace/files/QED_光和物质的奇妙理论.pdf)
@@ -51,14 +48,6 @@
   * [Cosmology_Weinberg](https://physix2020.github.io/blogplace/files/Steven_Weinberg_Cosmology.pdf)
   * 
 
-
-* 其他
-  * [旋转的线](https://physix2020.github.io/blogplace/pages/旋转的线.html)
-  * [磁性杂质](https://physix2020.github.io/blogplace/pages/磁性杂质.html)
-  * [2024.12.11](https://physix2020.github.io/blogplace/files/2024.12.11.pdf)
-  * [2024.12.12](https://physix2020.github.io/blogplace/files/2024.12.12.pdf)
-  * [2025.1.27](https://physix2020.github.io/blogplace/files/2025.1.27.pdf)
-  * 
 
 * Other notes
   * [Summer Research](https://physix2020.github.io/blogplace/files/Summer_Research_Summary.pdf)
