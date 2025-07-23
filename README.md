@@ -3,14 +3,14 @@
 #### Coursework
 
 * PHYS 364, 2025 spring
-  * [General Relativity](https://physix2020.github.io/blogplace/files/固体物理重学1.pdf)
+  * [General Relativity](https://physix2020.github.io/blogplace/files/固体物理重学1.pdf)  
 
 * PHYS 443, 2024 autumn
-  * [QFTI](https://physix2020.github.io/blogplace/pages/量子测量_笔记_禁止.html)
-  
-* PHYS 353, 2024 autumn
-  * [Adv Statistical Mechanics](https://physix2020.github.io/blogplace/files/量子力学重学1.pdf),[2](https://physix2020.github.io/blogplace/files/量子力学重学2.pdf),[3](https://physix2020.github.io/blogplace/files/量子力学重学3.pdf)
+  * [QFTI](https://physix2020.github.io/blogplace/pages/量子测量_笔记_禁止.html)  
 
+* PHYS 353, 2024 autumn
+  * [Adv Statistical Mechanics](https://physix2020.github.io/blogplace/files/量子力学重学1.pdf),[2](https://physix2020.github.io/blogplace/files/量子力学重学2.pdf),[3](https://physix2020.github.io/blogplace/files/量子力学重学3.pdf)  
+  
 * 量子信息
   * [量子信息0](https://physix2020.github.io/blogplace/files/quantum.pdf)
   * [Advanced Quantum Information and Computation](https://physix2020.github.io/blogplace/files/Advanced_Quantum_Information_and_Computation.pdf) 
