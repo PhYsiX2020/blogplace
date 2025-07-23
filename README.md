@@ -2,26 +2,14 @@
 
 #### Coursework
 
-* [PHYS 364 2025 spring](https://physix2020.github.io/blogplace/files/固体物理重学1.pdf)
-* [Problems and Solution Attempts](https://physix2020.github.io/blogplace/files/SolidState.pdf)
-  * 
+* PHYS 364 2025 spring
+ * [General Relativity](https://physix2020.github.io/blogplace/files/固体物理重学1.pdf)
 
-* 量子测量
-  * [量子测量0](https://physix2020.github.io/blogplace/pages/量子测量_笔记_禁止.html)
-  * [Quantum Measurement and Metrology](https://physix2020.github.io/blogplace/files/Quantum_Measurement_and_Metrology.pdf)
-  * [Problems and Solution Attempts](https://physix2020.github.io/blogplace/files/量子测量.pdf)
-  * 
+* PHYS 443 2024 autumn
+  * [QFTI](https://physix2020.github.io/blogplace/pages/量子测量_笔记_禁止.html)
   
-* Quantum Mechanics
-  * [量子力学重学1](https://physix2020.github.io/blogplace/files/量子力学重学1.pdf),[2](https://physix2020.github.io/blogplace/files/量子力学重学2.pdf),[3](https://physix2020.github.io/blogplace/files/量子力学重学3.pdf)
-  * [Note1](https://physix2020.github.io/blogplace/files/Note1.pdf)
-  * Problems and Solution Attempts
-    * [QM1-1](https://physix2020.github.io/blogplace/files/QM1-1.pdf)
-    * [QM1-2](https://physix2020.github.io/blogplace/files/QM1-2.pdf)
-    * [QM2-1](https://physix2020.github.io/blogplace/files/QM2-1.pdf)
-    * [QM2-2](https://physix2020.github.io/blogplace/files/QM2-2.pdf)
-  * [Quantum_Engineering](https://physix2020.github.io/blogplace/files/Quantum_Engineering.pdf)
-  * 
+* PHYS 353 2024 autumn
+  * [Adv Statistical Mechanics](https://physix2020.github.io/blogplace/files/量子力学重学1.pdf),[2](https://physix2020.github.io/blogplace/files/量子力学重学2.pdf),[3](https://physix2020.github.io/blogplace/files/量子力学重学3.pdf)
 
 * 量子信息
   * [量子信息0](https://physix2020.github.io/blogplace/files/quantum.pdf)
