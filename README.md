@@ -1,6 +1,6 @@
 ## Welcome to PhYsiX Space
 
-#### Coursework
+### Coursework
 
 * PHYS 364, 2025 spring
   * [General Relativity](https://physix2020.github.io/blogplace/files/固体物理重学1.pdf)<br>
