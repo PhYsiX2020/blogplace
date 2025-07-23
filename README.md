@@ -1,20 +1,10 @@
 ## Welcome to PhYsiX Space
 
-#### 笔记收录
+#### Coursework
 
-* 固体物理
-  * [固体物理重学1...](https://physix2020.github.io/blogplace/files/固体物理重学1.pdf)
-  * [Problems and Solution Attempts](https://physix2020.github.io/blogplace/files/SolidState.pdf)
+* [PHYS 364 2025 spring](https://physix2020.github.io/blogplace/files/固体物理重学1.pdf)
+* [Problems and Solution Attempts](https://physix2020.github.io/blogplace/files/SolidState.pdf)
   * 
-
-
-
-* Introduction to Cosmology
-  * [Cosmology_Weinberg](https://physix2020.github.io/blogplace/files/Steven_Weinberg_Cosmology.pdf)
-  * Lecture notes
-  * 
-
-
 
 * 量子测量
   * [量子测量0](https://physix2020.github.io/blogplace/pages/量子测量_笔记_禁止.html)
@@ -49,7 +39,8 @@
   * [量子光学笔记](https://physix2020.github.io/blogplace/files/QO基础巩固1.pdf)
   * 
 
-* Journal Club/Presentations
+#### Journal Club/Presentations
+
   * [A coherent spin–photon interface in silicon](https://physix2020.github.io/blogplace/files/A_coherent_spin–photon_interface_in_silicon.pdf)
   * [Coupling a single electron on superfluid helium to a superconducting resonator](https://physix2020.github.io/blogplace/files/Coupling_a_single_electron_on_superfluid_helium_to_a_superconducting_resonator.pdf)
   * [Kilohertz EPR spectroscopy of single nitrogen centers at zero magnetic field](https://physix2020.github.io/blogplace/files/Kilohertz_electron_paramagnetic_resonance_spectroscopy_of_single_nitrogen_centers_at_zero_magnetic_field.pdf)
@@ -58,6 +49,10 @@
   * [QST](https://physix2020.github.io/blogplace/files/QST.pdf)
   * 
 
+#### Research Notes
+
+#### Drafts
+
 
 * 电子书
   * [QED_光和物质的奇妙理论](https://physix2020.github.io/blogplace/files/QED_光和物质的奇妙理论.pdf)
@@ -65,6 +60,7 @@
   * [量子菜根谭](https://physix2020.github.io/blogplace/files/量子菜根谭_量子理论专题分析.pdf)
   * [朗道统计物理学I](https://physix2020.github.io/blogplace/files/朗道统计物理学I.pdf)
   * [量子计算与量子信息原理](https://physix2020.github.io/blogplace/files/量子计算与量子信息原理.pdf)
+  * [Cosmology_Weinberg](https://physix2020.github.io/blogplace/files/Steven_Weinberg_Cosmology.pdf)
   * 
 
 
