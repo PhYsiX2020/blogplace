@@ -12,19 +12,17 @@
   * [Adv Quantum Information and Computation](https://physix2020.github.io/blogplace//files/MENG_374.pdf)
   * [Solid State Physics](https://physix2020.github.io/blogplace//files/PHYS_361.pdf)
   * [Quantum Optics](https://physix2020.github.io/blogplace//files/Quantum_Optics.pdf)
-  * [QFT(personal)](https://physix2020.github.io/blogplace//files/QFT.pdf),[Video](https://youtube.com/playlist?list=PLGr3RmTaPgKCvkGDY3EhvC0LTssI5fAP6&feature=shared)
-  * [QO(personal)](https://physix2020.github.io/blogplace//files/QO基础巩固1.pdf),[Video](https://youtube.com/playlist?list=PLGr3RmTaPgKB01FC4_qIWIFarJjezhShb&feature=shared)
+  * [QFT(personal)](https://physix2020.github.io/blogplace//files/QFT.pdf),[Video](https://youtube.com/playlist?list=PLGr3RmTaPgKCvkGDY3EhvC0LTssI5fAP6&feature=shared), [QO(personal)](https://physix2020.github.io/blogplace//files/QO基础巩固1.pdf),[Video](https://youtube.com/playlist?list=PLGr3RmTaPgKB01FC4_qIWIFarJjezhShb&feature=shared)
 
 * 2021
   * [Quantum Measurements and Metrology](https://physix2020.github.io/blogplace//files/MENG_375.pdf)
   * [Statistical Mechanics](https://physix2020.github.io/blogplace//files/PHYS_352.pdf)
   * [Advanced Electrodynamics I](https://physix2020.github.io/blogplace//files/PHYS_322.pdf), [II](https://physix2020.github.io/blogplace//files/PHYS_323.pdf)
-  * [QM(personal)](https://physix2020.github.io/blogplace//files/量子力学重学1.pdf),[Video](https://youtube.com/playlist?list=PLGr3RmTaPgKBty_VFXjMFzoMhq46GYsYP&feature=shared)
+  * [QM(personal)](https://physix2020.github.io/blogplace//files/量子力学重学1.pdf),[Video](https://youtube.com/playlist?list=PLGr3RmTaPgKBty_VFXjMFzoMhq46GYsYP&feature=shared), [QI(personal,video)](https://youtube.com/playlist?list=PLGr3RmTaPgKDfiyUpCDMHNScqobAhJoYQ&feature=shared)
 
 * 2020
   * [Graduate Quantum Mechanics 1](https://physix2020.github.io/blogplace//files/PHYS_322.pdf), [2](https://physix2020.github.io/blogplace//files/PHYS_323.pdf)
   * [Adv Classical Mechanics](https://physix2020.github.io/blogplace//files/PHYS_316.pdf)
-  * [QI(personal,video)](https://youtube.com/playlist?list=PLGr3RmTaPgKDfiyUpCDMHNScqobAhJoYQ&feature=shared)
 
 
 ### Journal Club/Presentations
