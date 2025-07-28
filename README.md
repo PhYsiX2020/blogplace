@@ -12,13 +12,13 @@
   * [Adv Quantum Information and Computation](https://physix2020.github.io/blogplace//files/MENG_374.pdf)
   * [Solid State Physics](https://physix2020.github.io/blogplace//files/PHYS_361.pdf)
   * [Quantum Optics](https://physix2020.github.io/blogplace//files/Quantum_Optics.pdf)
-  * [QFT(personal)](https://physix2020.github.io/blogplace//files/QFT.pdf),[Video](https://youtube.com/playlist?list=PLGr3RmTaPgKCvkGDY3EhvC0LTssI5fAP6&feature=shared), [QO(personal)](https://physix2020.github.io/blogplace//files/QO基础巩固1.pdf),[Video](https://youtube.com/playlist?list=PLGr3RmTaPgKB01FC4_qIWIFarJjezhShb&feature=shared)
+  * [QFT](https://physix2020.github.io/blogplace//files/QFT.pdf),[Video](https://youtube.com/playlist?list=PLGr3RmTaPgKCvkGDY3EhvC0LTssI5fAP6&feature=shared), [QO](https://physix2020.github.io/blogplace//files/QO基础巩固1.pdf),[Video](https://youtube.com/playlist?list=PLGr3RmTaPgKB01FC4_qIWIFarJjezhShb&feature=shared)
 
 * 2021
   * [Quantum Measurements and Metrology](https://physix2020.github.io/blogplace//files/MENG_375.pdf)
   * [Statistical Mechanics](https://physix2020.github.io/blogplace//files/PHYS_352.pdf)
   * [Advanced Electrodynamics I](https://physix2020.github.io/blogplace//files/PHYS_322.pdf), [II](https://physix2020.github.io/blogplace//files/PHYS_323.pdf)
-  * [QM(personal)](https://physix2020.github.io/blogplace//files/量子力学重学1.pdf),[Video](https://youtube.com/playlist?list=PLGr3RmTaPgKBty_VFXjMFzoMhq46GYsYP&feature=shared), [QI(personal,video)](https://youtube.com/playlist?list=PLGr3RmTaPgKDfiyUpCDMHNScqobAhJoYQ&feature=shared)
+  * [QM](https://physix2020.github.io/blogplace//files/量子力学重学1.pdf),[Video](https://youtube.com/playlist?list=PLGr3RmTaPgKBty_VFXjMFzoMhq46GYsYP&feature=shared), [QI](https://youtube.com/playlist?list=PLGr3RmTaPgKDfiyUpCDMHNScqobAhJoYQ&feature=shared)
 
 * 2020
   * [Graduate Quantum Mechanics 1](https://physix2020.github.io/blogplace//files/PHYS_322.pdf), [2](https://physix2020.github.io/blogplace//files/PHYS_323.pdf)
@@ -62,6 +62,3 @@
 * [bilibili](https://space.bilibili.com/22728820/)
 * [blog](https://physix2020.github.io/archives/)
 * [essay](https://zine.la/@%E8%8B%B9%E6%9E%9C%E6%A0%91%E4%B8%8A%E7%9A%84%E7%81%AF/articles/)
-* [神话整理]
-
-希望以后可以做出照片的gallery。
