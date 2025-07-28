@@ -1,7 +1,6 @@
 ## Welcome to PhYsiX Space
 
 ### Journal Club/Presentations
-
 * 2021-23
   * [A coherent spin–photon interface in silicon](https://physix2020.github.io/blogplace/files/A_coherent_spin–photon_interface_in_silicon.pdf)
   * [Coupling a single electron on superfluid helium to a superconducting resonator](https://physix2020.github.io/blogplace/files/Coupling_a_single_electron_on_superfluid_helium_to_a_superconducting_resonator.pdf)
@@ -23,8 +22,8 @@
   * [Coherent single Erbium spin qubit manipulation at milli-Kelvin temperature](https://physix2020.github.io/blogplace/files/ESR_SCresonator.pdf)  
   * [On-chip telecom quantum memory based on a coherent Er: Si spin-photon interface](https://physix2020.github.io/blogplace/files/proposal.pdf)
 
-### Coursework/Personal Notes
 
+### Coursework/Personal Notes
 * 2024-25
   * [General Relativity](https://physix2020.github.io/blogplace/files/GR.pdf)
   * [Adv Statistical Mechanics](https://physix2020.github.io/blogplace/files/PHYS_353.pdf)
