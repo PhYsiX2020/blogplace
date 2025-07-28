@@ -12,8 +12,8 @@
   * [Adv Quantum Information and Computation](https://physix2020.github.io/blogplace//files/MENG_374.pdf)
   * [Solid State Physics](https://physix2020.github.io/blogplace//files/PHYS_361.pdf)
   * [Quantum Optics](https://physix2020.github.io/blogplace//files/Quantum_Optics.pdf)
-  * [QFT(personal)](https://physix2020.github.io/blogplace//files/QFT.pdf),[Video](https://space.bilibili.com/22728820/)
-  * [QO(personal)](https://physix2020.github.io/blogplace//files/QO基础巩固1.pdf),[Video](https://space.bilibili.com/22728820/)
+  * [QFT(personal)](https://physix2020.github.io/blogplace//files/QFT.pdf),[Video](https://youtube.com/playlist?list=PLGr3RmTaPgKCvkGDY3EhvC0LTssI5fAP6&feature=shared)
+  * [QO(personal)](https://physix2020.github.io/blogplace//files/QO基础巩固1.pdf),[Video](https://youtube.com/playlist?list=PLGr3RmTaPgKB01FC4_qIWIFarJjezhShb&feature=shared)
 
 * 2021
   * [Quantum Measurements and Metrology](https://physix2020.github.io/blogplace//files/MENG_375.pdf)
@@ -51,15 +51,16 @@
 
 ### Hand Drafts/Random
   * [Transmission line coupled Resonator](https://physix2020.github.io/blogplace/files/Derivation_of_TL_coupled_Resonator.pdf)
-  * [旋转的线](https://physix2020.github.io/blogplace/pages/旋转的线.html)
-  * [磁性杂质](https://physix2020.github.io/blogplace/pages/磁性杂质.html)
-  * Under construction... 
+  * [Quantum information](https://physix2020.github.io/blogplace/files/patched1.pdf)
+  * [Reading note](https://physix2020.github.io/blogplace/files/patched2.pdf)
+  * [Reading note2](https://physix2020.github.io/blogplace/files/patched3.pdf)
 
 
 ### External
-* [birthday essay](https://zine.la/@%E8%8B%B9%E6%9E%9C%E6%A0%91%E4%B8%8A%E7%9A%84%E7%81%AF/articles/)
+* [youtube](https://space.bilibili.com/22728820/)
 * [bilibili](https://space.bilibili.com/22728820/)
 * [blog](https://physix2020.github.io/archives/)
+* [birthday essay](https://zine.la/@%E8%8B%B9%E6%9E%9C%E6%A0%91%E4%B8%8A%E7%9A%84%E7%81%AF/articles/)
 * [神话整理]
 
 希望以后可以做出照片的gallery。
