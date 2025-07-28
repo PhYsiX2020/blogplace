@@ -28,7 +28,7 @@
   * [General Relativity](https://physix2020.github.io/blogplace/files/GR.pdf)
   * [Adv Statistical Mechanics](https://physix2020.github.io/blogplace/files/PHYS_353.pdf)
   * [Quantum Field Theory I](https://physix2020.github.io/blogplace//files/PHYS_443.pdf)
-  * Math[CA](https://physix2020.github.io/blogplace//files/CA.pdf),[mp eqn](https://physix2020.github.io/blogplace//files/mp_eqn.pdf),[LA](https://physix2020.github.io/blogplace//files/LA.pdf)
+  * [CA](https://physix2020.github.io/blogplace//files/CA.pdf),[mp eqn](https://physix2020.github.io/blogplace//files/mp_eqn.pdf),[LA](https://physix2020.github.io/blogplace//files/LA.pdf)
 
 * 2022-23
   * [Adv Quantum Information and Computation](https://physix2020.github.io/blogplace//files/MENG_374.pdf)
