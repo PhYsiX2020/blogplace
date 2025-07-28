@@ -1,5 +1,28 @@
 ## Welcome to PhYsiX Space
 
+### Journal Club/Presentations
+
+* 2021-23
+  * [A coherent spin–photon interface in silicon](https://physix2020.github.io/blogplace/files/A_coherent_spin–photon_interface_in_silicon.pdf)
+  * [Coupling a single electron on superfluid helium to a superconducting resonator](https://physix2020.github.io/blogplace/files/Coupling_a_single_electron_on_superfluid_helium_to_a_superconducting_resonator.pdf)
+  * [Kilohertz EPR spectroscopy of single nitrogen centers at zero magnetic field](https://physix2020.github.io/blogplace/files/Kilohertz_electron_paramagnetic_resonance_spectroscopy_of_single_nitrogen_centers_at_zero_magnetic_field.pdf)
+  * [NMR sensing](https://physix2020.github.io/blogplace/files/NMR_sensing.pdf)
+  * [Electrically driven optical interferometry with spins in SiC](https://physix2020.github.io/blogplace/files/Electrically_driven_optical_interferometry_with_spins_in_silicon_carbide.pdf)
+  * [Quantum State Transfer](https://physix2020.github.io/blogplace/files/QST.pdf)
+* 2020 and before
+  * [Undergrad Thesis: The Construction and Improvement of a Microwave Impedance Microscope](https://physix2020.github.io/blogplace/files/微波阻抗显微镜的搭建及改进.pdf)
+  * [Undergrad Defense](https://physix2020.github.io/blogplace/files/毕业答辩.pdf)
+
+
+### Research Works
+* 2024-25
+  * [entanglement and instability in tripartite optomechanical systems with detuned drives](https://physix2020.github.io/blogplace/files/2024.3.pdf)
+  * [Floquet pumping topology](https://physix2020.github.io/blogplace/files/2025.3.pdf)
+* 2021-23
+  * [Characterization of JTWPA](https://physix2020.github.io/blogplace/files/Summer_Research_Summary.pdf)
+  * [Coherent single Erbium spin qubit manipulation at milli-Kelvin temperature](https://physix2020.github.io/blogplace/files/ESR_SCresonator.pdf)  
+  * [On-chip telecom quantum memory based on a coherent Er: Si spin-photon interface](https://physix2020.github.io/blogplace/files/proposal.pdf)
+
 ### Coursework/Personal Notes
 
 * 2024-25
@@ -23,30 +46,6 @@
 * 2020
   * [Graduate Quantum Mechanics 1](https://physix2020.github.io/blogplace//files/PHYS_322.pdf), [2](https://physix2020.github.io/blogplace//files/PHYS_323.pdf)
   * [Adv Classical Mechanics](https://physix2020.github.io/blogplace//files/PHYS_316.pdf)
-
-
-### Journal Club/Presentations
-
-* 2021-23
-  * [A coherent spin–photon interface in silicon](https://physix2020.github.io/blogplace/files/A_coherent_spin–photon_interface_in_silicon.pdf)
-  * [Coupling a single electron on superfluid helium to a superconducting resonator](https://physix2020.github.io/blogplace/files/Coupling_a_single_electron_on_superfluid_helium_to_a_superconducting_resonator.pdf)
-  * [Kilohertz EPR spectroscopy of single nitrogen centers at zero magnetic field](https://physix2020.github.io/blogplace/files/Kilohertz_electron_paramagnetic_resonance_spectroscopy_of_single_nitrogen_centers_at_zero_magnetic_field.pdf)
-  * [NMR sensing](https://physix2020.github.io/blogplace/files/NMR_sensing.pdf)
-  * [Electrically driven optical interferometry with spins in SiC](https://physix2020.github.io/blogplace/files/Electrically_driven_optical_interferometry_with_spins_in_silicon_carbide.pdf)
-  * [Quantum State Transfer](https://physix2020.github.io/blogplace/files/QST.pdf)
-* 2020 and before
-  * [Undergrad Thesis: The Construction and Improvement of a Microwave Impedance Microscope](https://physix2020.github.io/blogplace/files/微波阻抗显微镜的搭建及改进.pdf)
-  * [Undergrad Defense](https://physix2020.github.io/blogplace/files/毕业答辩.pdf)
-
-
-### Research Works
-* 2024-25
-  * [entanglement and instability in tripartite optomechanical systems with detuned drives](https://physix2020.github.io/blogplace/files/2024.3.pdf)
-  * [Floquet pumping topology](https://physix2020.github.io/blogplace/files/2025.3.pdf)
-* 2021-23
-  * [Characterization of JTWPA](https://physix2020.github.io/blogplace/files/Summer_Research_Summary.pdf)
-  * [Coherent single Erbium spin qubit manipulation at milli-Kelvin temperature](https://physix2020.github.io/blogplace/files/ESR_SCresonator.pdf)  
-  * [On-chip telecom quantum memory based on a coherent Er: Si spin-photon interface](https://physix2020.github.io/blogplace/files/proposal.pdf)
 
 
 ### Hand Drafts/Random
