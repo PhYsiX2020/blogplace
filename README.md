@@ -9,9 +9,9 @@
   * [Adv Statistical Mechanics](https://physix2020.github.io/blogplace/files/PHYS_353.pdf)
 
 * PHYS 443, 2024 autumn
-  * [QFTI](https://physix2020.github.io/blogplace//files/PHYS_443.pdf)
+  * [Quantum Field Theory I](https://physix2020.github.io/blogplace//files/PHYS_443.pdf)
 
-* MENG 374, 2023 Winter
+* MENG 374, 2023 winter
   * [Adv Quantum Information and Computation](https://physix2020.github.io/blogplace//files/MENG_374.pdf)
 
 * PHYS 361, 2022 autumn
@@ -20,6 +20,17 @@
 * MENG 375, 2021 autumn
   * [Quantum Measurements and Metrology](https://physix2020.github.io/blogplace//files/MENG_375.pdf)
 
+* PHYS 352, 2021 spring
+  * [Statistical Mechanics](https://physix2020.github.io/blogplace//files/PHYS_352.pdf)
+
+* PHYS 322,323, 2021 winter,spring
+  * [Advanced Electrodynamics I](https://physix2020.github.io/blogplace//files/PHYS_322.pdf), [II](https://physix2020.github.io/blogplace//files/PHYS_323.pdf)
+
+* PHYS 341,342, 2020 autumn,2021 winter
+  * [Graduate Quantum Mechanics 1](https://physix2020.github.io/blogplace//files/PHYS_323.pdf), [II](https://physix2020.github.io/blogplace//files/PHYS_323.pdf)
+
+* PHYS 316, 2020 autumn
+  * [Adv Classical Mechanics](https://physix2020.github.io/blogplace//files/PHYS_316.pdf)
 
 ### Journal Club/Presentations
   * [A coherent spin–photon interface in silicon](https://physix2020.github.io/blogplace/files/A_coherent_spin–photon_interface_in_silicon.pdf)
@@ -28,7 +39,7 @@
   * [NMR sensing](https://physix2020.github.io/blogplace/files/NMR_sensing.pdf)
   * [Electrically driven optical interferometry with spins in SiC](https://physix2020.github.io/blogplace/files/Electrically_driven_optical_interferometry_with_spins_in_silicon_carbide.pdf)
   * [Quantum State Transfer](https://physix2020.github.io/blogplace/files/QST.pdf)
-  * [undergrad thesis](https://physix2020.github.io/blogplace/files/微波阻抗显微镜的搭建及改进.pdf)
+  * [undergrad thesis: The Construction and Improvement of a Microwave Impedance Microscope](https://physix2020.github.io/blogplace/files/微波阻抗显微镜的搭建及改进.pdf)
   * [undergrad defense](https://physix2020.github.io/blogplace/files/毕业答辩.pdf)
 
 ### Research Notes
