@@ -26,7 +26,9 @@
   * [Adv Classical Mechanics](https://physix2020.github.io/blogplace//files/PHYS_316.pdf)
   * [QI(personal,video)](https://youtube.com/playlist?list=PLGr3RmTaPgKDfiyUpCDMHNScqobAhJoYQ&feature=shared)
 
+
 ### Journal Club/Presentations
+
 * 2021-23
   * [A coherent spin–photon interface in silicon](https://physix2020.github.io/blogplace/files/A_coherent_spin–photon_interface_in_silicon.pdf)
   * [Coupling a single electron on superfluid helium to a superconducting resonator](https://physix2020.github.io/blogplace/files/Coupling_a_single_electron_on_superfluid_helium_to_a_superconducting_resonator.pdf)
