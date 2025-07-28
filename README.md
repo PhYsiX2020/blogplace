@@ -3,13 +3,16 @@
 ### Coursework
 
 * PHYS 364, 2025 spring
-  * [General Relativity](https://physix2020.github.io/blogplace/files/固体物理重学1.pdf)<br>
-
-* PHYS 443, 2024 autumn
-  * [QFTI](https://physix2020.github.io/blogplace/pages/量子测量_笔记_禁止.html)  
+  * [General Relativity](https://physix2020.github.io/blogplace/files/GR.pdf)
 
 * PHYS 353, 2024 autumn
-  * [Adv Statistical Mechanics](https://physix2020.github.io/blogplace/files/量子力学重学1.pdf),[2](https://physix2020.github.io/blogplace/files/量子力学重学2.pdf),[3](https://physix2020.github.io/blogplace/files/量子力学重学3.pdf)  
+  * [Adv Statistical Mechanics](https://physix2020.github.io/blogplace/files/PHYS_353.pdf)
+
+* PHYS 443, 2024 autumn
+  * [QFTI](https://physix2020.github.io/blogplace//files/PHYS_443.pdf)
+
+* PHYS 361, 2022 autumn
+  * [Intro to Condensed Matter Physics](https://physix2020.github.io/blogplace//files/PHYS_361.pdf)
 
 * 量子信息
   * [量子信息0](https://physix2020.github.io/blogplace/files/quantum.pdf)
@@ -34,7 +37,7 @@
 
 #### Research Notes
 
-#### Drafts
+#### Personal Notes/Drafts
   * [Transmission line coupled Resonator](https://physix2020.github.io/blogplace/files/Derivation_of_TL_coupled_Resonator.pdf)
   * [旋转的线](https://physix2020.github.io/blogplace/pages/旋转的线.html)
   * [磁性杂质](https://physix2020.github.io/blogplace/pages/磁性杂质.html)
