@@ -11,27 +11,28 @@
   * [Adv Quantum Information and Computation](https://physix2020.github.io/blogplace//files/MENG_374.pdf)
   * [Solid State Physics](https://physix2020.github.io/blogplace//files/PHYS_361.pdf)
   * [Quantum Optics](https://physix2020.github.io/blogplace//files/Quantum_Optics.pdf)
-  * [Quantum Optics(personal)](https://physix2020.github.io/blogplace//files/QO基础巩固1.pdf),[Video](https://space.bilibili.com/22728820/)
+  * [QO(personal)](https://physix2020.github.io/blogplace//files/QO基础巩固1.pdf),[Video](https://space.bilibili.com/22728820/)
 
 * 2021
   * [Quantum Measurements and Metrology](https://physix2020.github.io/blogplace//files/MENG_375.pdf)
   * [Statistical Mechanics](https://physix2020.github.io/blogplace//files/PHYS_352.pdf)
   * [Advanced Electrodynamics I](https://physix2020.github.io/blogplace//files/PHYS_322.pdf), [II](https://physix2020.github.io/blogplace//files/PHYS_323.pdf)
-  * [Quantum Mechanics(personal)](https://physix2020.github.io/blogplace//files/QO基础巩固1.pdf),[Video](https://youtube.com/playlist?list=PLGr3RmTaPgKBty_VFXjMFzoMhq46GYsYP&feature=shared)
+  * [QM(personal)](https://physix2020.github.io/blogplace//files/QO基础巩固1.pdf),[Video](https://youtube.com/playlist?list=PLGr3RmTaPgKBty_VFXjMFzoMhq46GYsYP&feature=shared)
 
 * 2020
-  * [Graduate Quantum Mechanics 1](https://physix2020.github.io/blogplace//files/PHYS_323.pdf), [II](https://physix2020.github.io/blogplace//files/PHYS_323.pdf)
+  * [Graduate Quantum Mechanics 1](https://physix2020.github.io/blogplace//files/PHYS_322.pdf), [2](https://physix2020.github.io/blogplace//files/PHYS_323.pdf)
   * [Adv Classical Mechanics](https://physix2020.github.io/blogplace//files/PHYS_316.pdf)
-  * [Quantum information(personal,video)](https://youtube.com/playlist?list=PLGr3RmTaPgKDfiyUpCDMHNScqobAhJoYQ&feature=shared)
+  * [QI(personal,video)](https://youtube.com/playlist?list=PLGr3RmTaPgKDfiyUpCDMHNScqobAhJoYQ&feature=shared)
 
 ### Journal Club/Presentations
+* 2021-23
   * [A coherent spin–photon interface in silicon](https://physix2020.github.io/blogplace/files/A_coherent_spin–photon_interface_in_silicon.pdf)
   * [Coupling a single electron on superfluid helium to a superconducting resonator](https://physix2020.github.io/blogplace/files/Coupling_a_single_electron_on_superfluid_helium_to_a_superconducting_resonator.pdf)
   * [Kilohertz EPR spectroscopy of single nitrogen centers at zero magnetic field](https://physix2020.github.io/blogplace/files/Kilohertz_electron_paramagnetic_resonance_spectroscopy_of_single_nitrogen_centers_at_zero_magnetic_field.pdf)
   * [NMR sensing](https://physix2020.github.io/blogplace/files/NMR_sensing.pdf)
   * [Electrically driven optical interferometry with spins in SiC](https://physix2020.github.io/blogplace/files/Electrically_driven_optical_interferometry_with_spins_in_silicon_carbide.pdf)
   * [Quantum State Transfer](https://physix2020.github.io/blogplace/files/QST.pdf)
-  * [Quantum Eraser](https://physix2020.github.io/blogplace/files/QST.pdf)
+* 2020 and before
   * [undergrad thesis: The Construction and Improvement of a Microwave Impedance Microscope](https://physix2020.github.io/blogplace/files/微波阻抗显微镜的搭建及改进.pdf)
   * [undergrad defense](https://physix2020.github.io/blogplace/files/毕业答辩.pdf)
 
