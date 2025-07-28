@@ -6,18 +6,20 @@
   * [General Relativity](https://physix2020.github.io/blogplace/files/GR.pdf)
   * [Adv Statistical Mechanics](https://physix2020.github.io/blogplace/files/PHYS_353.pdf)
   * [Quantum Field Theory I](https://physix2020.github.io/blogplace//files/PHYS_443.pdf)
+  * [Math(personal,video)](https://youtube.com/playlist?list=PLGr3RmTaPgKCviBTBzbYjNTGNk26rcntK&feature=shared)
 
 * 2022-23
   * [Adv Quantum Information and Computation](https://physix2020.github.io/blogplace//files/MENG_374.pdf)
   * [Solid State Physics](https://physix2020.github.io/blogplace//files/PHYS_361.pdf)
   * [Quantum Optics](https://physix2020.github.io/blogplace//files/Quantum_Optics.pdf)
+  * [QFT(personal)](https://physix2020.github.io/blogplace//files/QFT.pdf),[Video](https://space.bilibili.com/22728820/)
   * [QO(personal)](https://physix2020.github.io/blogplace//files/QO基础巩固1.pdf),[Video](https://space.bilibili.com/22728820/)
 
 * 2021
   * [Quantum Measurements and Metrology](https://physix2020.github.io/blogplace//files/MENG_375.pdf)
   * [Statistical Mechanics](https://physix2020.github.io/blogplace//files/PHYS_352.pdf)
   * [Advanced Electrodynamics I](https://physix2020.github.io/blogplace//files/PHYS_322.pdf), [II](https://physix2020.github.io/blogplace//files/PHYS_323.pdf)
-  * [QM(personal)](https://physix2020.github.io/blogplace//files/QO基础巩固1.pdf),[Video](https://youtube.com/playlist?list=PLGr3RmTaPgKBty_VFXjMFzoMhq46GYsYP&feature=shared)
+  * [QM(personal)](https://physix2020.github.io/blogplace//files/量子力学重学1.pdf),[Video](https://youtube.com/playlist?list=PLGr3RmTaPgKBty_VFXjMFzoMhq46GYsYP&feature=shared)
 
 * 2020
   * [Graduate Quantum Mechanics 1](https://physix2020.github.io/blogplace//files/PHYS_322.pdf), [2](https://physix2020.github.io/blogplace//files/PHYS_323.pdf)
@@ -33,8 +35,8 @@
   * [Electrically driven optical interferometry with spins in SiC](https://physix2020.github.io/blogplace/files/Electrically_driven_optical_interferometry_with_spins_in_silicon_carbide.pdf)
   * [Quantum State Transfer](https://physix2020.github.io/blogplace/files/QST.pdf)
 * 2020 and before
-  * [undergrad thesis: The Construction and Improvement of a Microwave Impedance Microscope](https://physix2020.github.io/blogplace/files/微波阻抗显微镜的搭建及改进.pdf)
-  * [undergrad defense](https://physix2020.github.io/blogplace/files/毕业答辩.pdf)
+  * [Undergrad Thesis: The Construction and Improvement of a Microwave Impedance Microscope](https://physix2020.github.io/blogplace/files/微波阻抗显微镜的搭建及改进.pdf)
+  * [Undergrad Defense](https://physix2020.github.io/blogplace/files/毕业答辩.pdf)
 
 ### Research Works
   * [Characterization of JTWPA](https://physix2020.github.io/blogplace/files/Summer_Research_Summary.pdf)
@@ -47,6 +49,8 @@
   * [Transmission line coupled Resonator](https://physix2020.github.io/blogplace/files/Derivation_of_TL_coupled_Resonator.pdf)
   * [旋转的线](https://physix2020.github.io/blogplace/pages/旋转的线.html)
   * [磁性杂质](https://physix2020.github.io/blogplace/pages/磁性杂质.html)
+  * Under construction... 
+
 
 
 ### External
