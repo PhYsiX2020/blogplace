@@ -56,7 +56,7 @@
 
 
 ### External
-* [youtube](https://space.bilibili.com/22728820/)
+* [youtube](https://www.youtube.com/channel/UCLur34LyINawLRcaNh81Q4g)
 * [bilibili](https://space.bilibili.com/22728820/)
 * [blog](https://physix2020.github.io/archives/)
 * [essay](https://zine.la/@%E8%8B%B9%E6%9E%9C%E6%A0%91%E4%B8%8A%E7%9A%84%E7%81%AF/articles/)
