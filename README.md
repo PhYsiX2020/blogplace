@@ -1,5 +1,17 @@
 ## Welcome to PhYsiX Space
 
+
+### Research Works
+* 2024-25
+  * [entanglement and instability in tripartite optomechanical systems with detuned drives](https://physix2020.github.io/blogplace/files/2024.3.pdf)
+  * [Floquet pumping topology](https://physix2020.github.io/blogplace/files/2025.3.pdf)
+* 2021-23
+  * [Characterization of JTWPA](https://physix2020.github.io/blogplace/files/Summer_Research_Summary.pdf)
+  * [Coherent single Erbium spin qubit manipulation at milli-Kelvin temperature](https://physix2020.github.io/blogplace/files/ESR_SCresonator.pdf)  
+  * [On-chip telecom quantum memory based on a coherent Er: Si spin-photon interface](https://physix2020.github.io/blogplace/files/proposal.pdf)
+
+
+
 ### Talks/Presentations
 * 2021-23
   * [A coherent spin–photon interface in silicon](https://physix2020.github.io/blogplace/files/A_coherent_spin–photon_interface_in_silicon.pdf)
@@ -12,15 +24,6 @@
   * [Undergrad Thesis: The Construction and Improvement of a Microwave Impedance Microscope](https://physix2020.github.io/blogplace/files/微波阻抗显微镜的搭建及改进.pdf)
   * [Undergrad Defense](https://physix2020.github.io/blogplace/files/毕业答辩.pdf)
 
-
-### Research Works
-* 2024-25
-  * [entanglement and instability in tripartite optomechanical systems with detuned drives](https://physix2020.github.io/blogplace/files/2024.3.pdf)
-  * [Floquet pumping topology](https://physix2020.github.io/blogplace/files/2025.3.pdf)
-* 2021-23
-  * [Characterization of JTWPA](https://physix2020.github.io/blogplace/files/Summer_Research_Summary.pdf)
-  * [Coherent single Erbium spin qubit manipulation at milli-Kelvin temperature](https://physix2020.github.io/blogplace/files/ESR_SCresonator.pdf)  
-  * [On-chip telecom quantum memory based on a coherent Er: Si spin-photon interface](https://physix2020.github.io/blogplace/files/proposal.pdf)
 
 
 ### Coursework/Personal Notes
